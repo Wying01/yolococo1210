@@ -1,0 +1,3 @@
+hand
+knife_hand
+scissor_hand
